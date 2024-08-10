@@ -1,0 +1,11 @@
+{
+	"id": "noiteratorkarma",
+	"name": "No Iterator Karma",
+	"version": "1.0.0",
+	"hide_version": false,
+	"authors": "Coder23848",
+	"description": "Prevents iterators from raising your maximum karma.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

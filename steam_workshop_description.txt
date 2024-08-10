@@ -1,0 +1,1 @@
+Prevents iterators from raising your maximum karma.
